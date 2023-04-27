@@ -1,0 +1,28 @@
+1º) 91
+
+2º) arquivo fibonacci.py 
+
+3º)
+a. 9
+b.128
+c.49
+d.256
+e.13
+f.Não há uma lógica clara que permita determinar o próximo número da sequência. Pode ser que haja alguma informação faltando.
+
+4º)
+Para resolver esse problema, é preciso calcular o ponto exato em que o carro e o caminhão se cruzam na rodovia. Como eles estão se aproximando um do outro, é possível pensar na situação como se estivessem se aproximando a uma velocidade combinada, que é a soma das velocidades dos dois veículos. A distância entre Ribeirão Preto e Franca é de 100 km. Como os dois veículos saíram de cidades opostas, cada um percorreu metade dessa distância até o ponto em que se cruzaram. Portanto, o ponto de encontro está a uma distância de 50 km tanto de Ribeirão Preto quanto de Franca. Para calcular o tempo que cada veículo levou para chegar até esse ponto de encontro, podemos usar a fórmula de distância = velocidade x tempo. Sabendo que o carro se deslocou a uma velocidade constante de 110 km/h, podemos calcular que ele levou:
+
+tempo = distância / velocidade
+tempo = 50 km / 110 km/h
+tempo ≈ 0,45 horas
+
+Já o caminhão se deslocou a uma velocidade constante de 80 km/h, mas levou 5 minutos a mais para passar em cada pedágio. Como há 2 pedágios no trajeto, podemos adicionar 10 minutos (ou 0,17 horas) ao tempo de viagem do caminhão. Portanto, o tempo total de viagem do caminhão foi:
+
+tempo = distância / velocidade + tempo de pedágios
+tempo = 50 km / 80 km/h + 0,17 horas
+tempo ≈ 0,79 horas
+
+Agora, podemos comparar as distâncias percorridas por cada veículo até o ponto de encontro. Sabemos que o carro se deslocou a uma velocidade maior e levou menos tempo, enquanto o caminhão se deslocou a uma velocidade menor e levou mais tempo. Porém, ambos percorreram a mesma distância até o ponto de encontro. Portanto, quando eles se cruzarem na rodovia, estarão equidistantes das cidades de Ribeirão Preto e Franca, a uma distância de 50 km de cada uma delas. Nenhum dos veículos estará mais próximo de Ribeirão Preto do que o outro.
+
+5º) arquivo inverteString.py
